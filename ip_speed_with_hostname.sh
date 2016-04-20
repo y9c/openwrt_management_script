@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #!/bin/sh
 echo "Collecting data..."
 echo ""
